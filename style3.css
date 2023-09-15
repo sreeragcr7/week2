@@ -1,0 +1,37 @@
+.row{
+    margin: 30px;
+}
+body{
+    background-color: rgb(243, 249, 243);
+}
+.btn-group .btn1{
+    background-color: rgba(6, 131, 23, 0.714);
+    color: rgb(0, 0, 0); 
+}
+.btn-group .btn{
+    background-color: darkorange;
+    color: rgb(11, 11, 11); 
+}
+.card{
+    background-color: rgba(49, 48, 48, 0.63);
+    color: rgb(23, 22, 22);
+}
+.featurette-heading{
+    color: rgb(8, 8, 8);
+}
+.lead{
+    color: rgb(9, 9, 9);
+}
+.container h2{
+    color: rgb(9, 9, 9);
+
+}
+.container .form-label{
+    color: rgb(9, 9, 9);
+}
+.form-check-label{
+    color: rgb(11, 11, 11);
+}
+#about-home h1{
+    color: azure;
+}
